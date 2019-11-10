@@ -1,6 +1,7 @@
 /* write your override styles here */
 
-/*#wall .parent {
+/* Below removes multiple tags, but didn't pass the test because it is checking for file size.
+#wall .parent {
   display: none;
 }*/
 
