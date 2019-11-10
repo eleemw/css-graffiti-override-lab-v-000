@@ -1,1 +1,17 @@
 /* write your override styles here */
+
+#wall .parent {
+  display: none;
+}
+
+
+#wall .tag-1 {
+  display: none;
+}
+
+#wall #wall .tag-4 {
+  display: none;
+}
+/*div[class=slick] {
+  display: none;
+}
