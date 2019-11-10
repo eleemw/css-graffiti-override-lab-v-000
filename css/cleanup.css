@@ -25,7 +25,7 @@ div#wall #tag-4 {
   display: none;
 }
 
-body div#wall div.parent div > #tag-6 {
+body div#wall div.parent div:last-of-type #tag-6 {
   display: none;
 }
 
