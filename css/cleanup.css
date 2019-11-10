@@ -4,7 +4,9 @@
   display: none;
 }
 
-
+#wall .tag-1 {
+  display: none;
+}
 
 #wall #wall .tag-4 {
   display: none;
