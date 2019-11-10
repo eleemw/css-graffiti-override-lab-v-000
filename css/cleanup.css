@@ -8,6 +8,6 @@
   display: none;
 }
 
-div#wall[class=slick] {
+div#wall [class=slick] {
   display: none;
 }
